@@ -1,5 +1,7 @@
-# Torch and introduction in neural network
+# introduction in neural network
 
-Введение в пайторч и пример примитивной нейронной сети. Можно использовать, как шпоргалку 
+ - quick_knowledge - Быстрые знания, ноутбуки шпоргалки по библитекам
+ - digit_recognition - учебный пример распознования цифр, сравнение uniform и Xavier на MNIST
+
 
 
